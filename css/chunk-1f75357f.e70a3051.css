@@ -1,0 +1,1 @@
+.PopupPage ul{display:flex;background:var(--lee-white)}.PopupPage ul li{width:25%}.PopupPage ul li .li{padding:50% 0;height:0;border-right:solid 1px var(--lee-gray-light);display:flex;align-items:center;justify-content:center;flex-direction:column}.PopupPage ul li .li i{font-size:28px}.PopupPage ul .text{font-size:12px;margin-top:8px}

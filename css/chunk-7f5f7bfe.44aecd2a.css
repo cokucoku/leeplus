@@ -1,0 +1,1 @@
+.loadingPage .inset{background:var(--lee-white);display:flex;flex-wrap:wrap;padding:16px}.loadingPage .lee-loading{margin-right:6px;font-size:30px}.loadingPage .lee-cell-group:first-child .lee-loading{width:25%;margin-right:0;border:solid 1px var(--lee-gray-light);margin-left:-1px;margin-top:-1px;padding:16px 0}
