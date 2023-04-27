@@ -88,6 +88,7 @@ body, html, .page {
 
 .page .position {
     position: sticky;
+    position: -webkit-sticky;
     display: flex;
     align-items: center;
     justify-content: center;
